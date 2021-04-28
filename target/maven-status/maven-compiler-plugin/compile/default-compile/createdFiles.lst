@@ -1,0 +1,4 @@
+com\baya\demolibrary\App.class
+com\baya\demolibrary\stringpadder\StringPadderFactory.class
+com\baya\demolibrary\stringpadder\StringPadderImpl.class
+com\baya\demolibrary\stringpadder\StringPadder.class
